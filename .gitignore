@@ -1,0 +1,4 @@
+venv/
+.env
+sent_deadlines.txt
+__pycache__/
